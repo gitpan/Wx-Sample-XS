@@ -1,0 +1,5 @@
+MANIFEST
+Makefile.PL
+XS.pm
+XS.xs
+t/01_load.t
